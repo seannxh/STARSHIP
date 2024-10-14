@@ -1,0 +1,14 @@
+.starship-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.starship-card h3 {
+  margin: 0;
+}
+
+.starship-card p {
+  margin: 5px 0;
+}
